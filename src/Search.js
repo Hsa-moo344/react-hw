@@ -102,7 +102,7 @@ export default function Weather(props) {
           </div>
           <footer>
             <a
-              href=""
+              href="https://github.com/Hsa-moo344/react-hw"
               onClick={handleResponse}
               id="fahrenheit-link"
               target="_blank"
