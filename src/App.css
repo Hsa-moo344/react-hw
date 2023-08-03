@@ -38,7 +38,8 @@ li::first-letter {
 
 .Humidity {
   text-align: center;
-  margin-right: -300px;
+  margin-right: -100px;
+  margin-top: -50px;
 }
 .overview {
   margin-bottom: 20px;
@@ -97,4 +98,5 @@ li::first-letter {
 }
 footer {
   font-size: 11px;
+  text-align: center;
 }
