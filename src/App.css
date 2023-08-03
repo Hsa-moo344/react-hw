@@ -38,6 +38,7 @@ li::first-letter {
 
 .Humidity {
   text-align: center;
+  margin-right: -300px;
 }
 .overview {
   margin-bottom: 20px;
@@ -72,15 +73,14 @@ li::first-letter {
 }
 
 .card-body {
-  background-color: #f7f1e7;
+  background-color: #dafad4;
   border-radius: 10px;
   box-shadow: 0 0 10px #8e9ebe;
 }
 
 .weather-forecast {
   margin-top: 28px;
-  text-align: left;
-  color: #000;
+  color: #151313;
 }
 
 .weather-forecast-date {
@@ -97,5 +97,4 @@ li::first-letter {
 }
 footer {
   font-size: 11px;
-  text-align: center;
 }
