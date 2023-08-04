@@ -106,6 +106,7 @@ export default function Weather(props) {
               onClick={handleResponse}
               id="fahrenheit-link"
               target="_blank"
+              rel="noreferrer"
             >
               Open-source code{" "}
             </a>
